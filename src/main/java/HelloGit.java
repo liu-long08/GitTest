@@ -8,7 +8,6 @@ public class HelloGit {
         System.out.println("version1");
         System.out.println("version2");
         System.out.println("version3");
-        System.out.println("version2-hot-fix");
-        System.out.println("version-master_last");
+        System.out.println("version-master_last-branch");
     }
 }
