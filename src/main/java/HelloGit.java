@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("version2");
         System.out.println("version3");
         System.out.println("version-master_last-branch");
+        System.out.println("不冲突测试");
     }
 }
