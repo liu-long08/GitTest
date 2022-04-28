@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println("double_branch");
         System.out.println("中文版本名测试");
         System.out.println("push测试");
+        System.out.println("pull测试");
     }
 }
